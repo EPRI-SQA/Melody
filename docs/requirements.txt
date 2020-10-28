@@ -1,0 +1,9 @@
+dpkt
+grpcio
+grpcio-tools
+httplib2
+networkx
+netaddr
+numpy
+six==1.9.0
+
